@@ -1,0 +1,27 @@
+﻿  temp.c
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(42,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(48,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(54,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(80,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(127,28): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(156,55): warning C4098: 'coffee_list': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(164,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(172,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(219,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(231,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(249,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(275,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(312,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(354,28): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(378,28): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(381,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(403,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(371,13): warning C4101: 'cnt' :참조되지 않은 지역 변수입니다.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(423,32): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(425,31): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(426,34): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(421,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(424,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(436,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\temp\temp.c(101): warning C4715: 'menu': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  temp.vcxproj -> C:\Users\runkk\Desktop\Univ\2021_First_Half\C언어_응용\temp\Debug\temp.exe
